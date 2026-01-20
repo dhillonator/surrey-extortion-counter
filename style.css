@@ -110,7 +110,7 @@ body, html {
     .counter {
         font-size: clamp(70px, 18vw, 180px);
         top: 58%;
-        transform: translate(-50%, -50%) translateX(270%) translateY(45%) rotate(22deg);
+        transform: translate(-50%, -50%) translateX(285%) translateY(45%) rotate(22deg);
     }
 }
 
@@ -135,6 +135,6 @@ body, html {
     .counter {
         font-size: clamp(60px, 20vw, 160px);
         top: 58%;
-        transform: translate(-50%, -50%) translateX(270%) translateY(45%) rotate(22deg);
+        transform: translate(-50%, -50%) translateX(285%) translateY(45%) rotate(22deg);
     }
 }
